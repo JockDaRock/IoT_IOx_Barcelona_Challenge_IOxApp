@@ -1,7 +1,7 @@
 import requests
 import time
 
-rpi_loc = "8127384.local"
+rpi_loc = "192.168.194.7"
 
 sleep_sec = 1
 
