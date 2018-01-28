@@ -2,7 +2,7 @@ import requests
 import time
 
 # rpi_loc = "raspberrypi.local"
-rpi_loc = "172.16.0.117"
+rpi_loc = "192.168.194.6"
 
 sleep_sec = 1
 
